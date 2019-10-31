@@ -1,0 +1,12 @@
+table, td, th {
+   border: 1px solid black;
+ }
+ h1 {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ h3 {
+   font-family: 'Times New Roman';
+ }
+.summary {
+  box-shadow: dimgray;
+}
